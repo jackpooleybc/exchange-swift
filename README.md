@@ -24,7 +24,7 @@ Check out the `BlockchainExchangeExample` project to see how to connect to the e
 
 ## Requirements
 
-`BlockchainExchangeKit` works on iOS 13 and macoOS Catalina or above. 
+`BlockchainExchangeKit` works on iOS 13 and macOS Catalina or above. 
 
 ## Installation
 
